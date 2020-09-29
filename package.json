@@ -1,0 +1,26 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "expresss": "0.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolegile94/mod11project.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/nicolegile94/mod11project/issues"
+  },
+  "homepage": "https://github.com/nicolegile94/mod11project#readme"
+}
