@@ -4,7 +4,6 @@ const { notes } = require('./db/db');
 
 app.get('/api/notes', (req, res) => {
     let results = notes;
-    console.log(req.query)
     res.json(results);
 });
 
